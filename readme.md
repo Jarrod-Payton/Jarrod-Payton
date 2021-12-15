@@ -8,4 +8,4 @@
 ### The thing that most motivates me to continue coding and will continue motivating me is the limitless potential of the software development field. As technology progresses onward there is always more to implement and forever more to improve on. I love the idea that whenever I wish there was an app for something that I wanted I can just make it.
 
 ## ◾Technologies
-## HTML | CSS | Javascript | Bootstrap | Vue | Node.js | C#
+### HTML | CSS | Javascript | Bootstrap | Vue | Node.js | C#
