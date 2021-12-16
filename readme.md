@@ -1,5 +1,3 @@
-![Fullstack Software Developer](https://quotefancy.com/media/wallpaper/3840x2160/3926219-Russell-Simmons-Quote-Surround-yourself-with-people-who-are.jpg)
-
 # { Lucas Payton }
 #### Fullstack Software Developer
 
