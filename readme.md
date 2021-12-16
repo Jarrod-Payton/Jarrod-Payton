@@ -7,8 +7,8 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
 ## GitHub Stats for your viewing pleasure
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="width: 70%; height: 155px;" src="https://github-readme-stats.vercel.app/api?username=Jarrod-Payton&show_icons=true&theme=dark" />
- <img class="img" style="width: 30%; height: 155px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
+ <img class="img" style="width: 60%; height: 155px;" src="https://github-readme-stats.vercel.app/api?username=Jarrod-Payton&show_icons=true&theme=dark" />
+ <img class="img" style="width: 40%; height: 155px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
 </div>
 <div style="display: flex; align-content-center; flex-direction: row;">
  <img class="img" style="height: 120px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Jarrod-Payton&theme=dark" />
