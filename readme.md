@@ -1,8 +1,11 @@
 # { Lucas Payton }
 ## Fullstack Software Developer
 
-### I'm Lucas, I am a Software Developer who is loving this industry, I enjoy creating websites and working applications. When I'm not having fun with code I enjoy watching Anime and playing video games.
+```markdown
+I'm Lucas, I am a Software Developer who is loving this industry, I enjoy creating websites and working applications. 
+When I'm not having fun with code I enjoy watching Anime and playing video games.
 
+```
 ## Skills
 
 #### -💻 HTML, CSS, JS, VUE JS
