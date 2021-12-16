@@ -1,6 +1,7 @@
+![Fullstack Software Developer](https://quotefancy.com/media/wallpaper/3840x2160/3926219-Russell-Simmons-Quote-Surround-yourself-with-people-who-are.jpg)
+
 # Lucas Payton
 #### Fullstack Software Developer
-![Fullstack Software Developer](https://quotefancy.com/media/wallpaper/3840x2160/3926219-Russell-Simmons-Quote-Surround-yourself-with-people-who-are.jpg)
 
 I'm Lucas, I am a Software Developer who is loving this industry, I enjoy creating websites and working applications. When I'm not having fun with code I enjoy watching Anime and playing video games.
 
