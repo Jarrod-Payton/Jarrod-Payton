@@ -1,4 +1,5 @@
-# Hi there 👋, I'm [Lucas](https://www.linkedin.com/in/lucaspayton/target=_blank)
+# Hi there 👋, I'm
+<a href=""https://www.linkedin.com/in/lucaspayton/" target="_blank"">Lucas</a>
 
 ```
 I am a Software Developer who is loving this industry, I enjoy creating websites and working applications. 
