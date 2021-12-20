@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Lucas](https://www.linkedin.com/in/lucaspayton/)
 
 ```
-I am a Software Developer who is loving this industry, I enjoy creating websites and working applications. 
+I am a Software Engineer who is loving this industry, I enjoy creating websites and working applications. 
 When I'm not having fun with code I enjoy watching Anime and playing video games.
 ```
 ## GitHub Stats for your viewing pleasure
