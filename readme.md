@@ -13,7 +13,11 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
 <div style="display: flex; align-content-center; flex-direction: row;">
  <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
  <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Overly-Complex-LinkedIn&theme=dark" />
-</div> 
+</div>
+<div style="display: flex; align-content-center; flex-direction: row;">
+ <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Clicker-Games&theme=dark" />
+ <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Jarrod-Payton&theme=dark" />
+</div>
 
 ## Skills and Experience 
 
