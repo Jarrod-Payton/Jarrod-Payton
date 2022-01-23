@@ -11,8 +11,8 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
  <img class="img" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
 </div>
 <div style="display: flex; align-content-center; flex-direction: row;">
- <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
- <img class="img" style="height: 152px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Hangout&theme=dark" />
+ <img class="img" style="height: 151px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
+ <img class="img" style="height: 151px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Hangout&theme=dark" />
 </div>
 
 ## Skills and Experience 
