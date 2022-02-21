@@ -21,4 +21,4 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
 ### -🔗 Javascript, Vue, Angular
 ### -👨‍💻 Node.js, C#
 ### -💾 MongoDB, MySQL
-### -🔌 Bootstrap
+### -🔌 Bootstrap, KonvaJs
