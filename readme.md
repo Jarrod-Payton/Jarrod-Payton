@@ -7,12 +7,12 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
 ## GitHub Stats for your viewing pleasure
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Jarrod-Payton&show_icons=true&theme=dark" />
- <img class="img" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
+ <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Jarrod-Payton&show_icons=true&theme=dark" />
+ <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
 </div>
 <div style="display: flex; align-content-center; flex-direction: row;">
- <img class="img" style="height: 147px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
- <img class="img" style="height: 147px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Hangout&theme=dark" />
+ <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
+ <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Hangout&theme=dark" />
 </div>
 
 ## Skills and Experience 
