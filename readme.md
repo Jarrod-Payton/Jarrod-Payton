@@ -18,7 +18,7 @@ When I'm not having fun with code I enjoy watching Anime and playing video games
 ## Skills and Experience 
 
 ### -💻 HTML, CSS, SCSS
-### -🔗 Javascript, Typescript, Vue, Angular
+### -🔗 Javascript, Typescript, Vue, Angular, React
 ### -👨‍💻 Node.js, C#
 ### -💾 MongoDB, MySQL
 ### -🔌 Bootstrap, KonvaJs, RXJS, Nest JS
