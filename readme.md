@@ -2,11 +2,14 @@
 
 ```
 Meet Jarrod, a passionate 19-year-old developer with an insatiable appetite for website development.
-Armed with a year of coding experience and an entrepreneurial spirit, he's determined to make their mark in the tech world. 
+Armed with a year of coding experience and an entrepreneurial spirit, 
+he's determined to make their mark in the tech world. 
 Always striving for self-improvement, Jarrod takes pride in being a hard worker 
 and a fast learner, constantly pushing the limits of what he can achieve. 
-Whether he's tackling a new project or honing his skills, Jarrod is dedicated to excellence and never settles for mediocrity. 
-With a passion for both coding and entrepreneurship, the sky's the limit for this driven young developer.
+Whether he's tackling a new project or honing his skills, 
+Jarrod is dedicated to excellence and never settles for mediocrity. 
+With a passion for both coding and entrepreneurship, 
+the sky's the limit for this driven young developer.
 ```
 ## GitHub Stats for your viewing pleasure
 
