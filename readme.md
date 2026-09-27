@@ -4,7 +4,7 @@
 # Hi there I'm Jarrod
 
 ```
-Meet Jarrod, a passionate 23-year-old developer with an insatiable appetite for website development.
+Meet Jarrod, a passionate 20-year-old developer with an insatiable appetite for website development.
 Armed with a year of coding experience and an entrepreneurial spirit, 
 he's determined to make their mark in the tech world. 
 Always striving for self-improvement, Jarrod takes pride in being a hard worker 
