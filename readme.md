@@ -1,4 +1,7 @@
+<!--
 # Hi there <img style="height: 25px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm <a href="https://jarrodp.dev/" target="_blank">Jarrod</a>
+-->
+# Hi there I'm Jarrod
 
 ```
 Meet Jarrod, a passionate 20-year-old developer with an insatiable appetite for website development.
@@ -13,6 +16,7 @@ the sky's the limit for this driven young developer.
 ```
 ## GitHub Stats for your viewing pleasure
 
+<!--
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Jarrod-Payton&show_icons=true&theme=dark" />
  <img class="img" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarrod-Payton&theme=dark&layout=compact" />
@@ -21,6 +25,7 @@ the sky's the limit for this driven young developer.
  <img class="img" style="height: 147px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Good-Ol-Days&theme=dark" />
  <img class="img" style="height: 147px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarrod-Payton&repo=Hangout&theme=dark" />
 </div>
+-->
 
 ## Skills and Experience 
 
